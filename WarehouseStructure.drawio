@@ -1,420 +1,162 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T05:29:31.322Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CDklHGtsDrcy_OzZPJbZ" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T06:44:29.685Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yBRAaUhMpEmLN-QjqlVv" version="20.6.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1166" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Warehouse Structure" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="70" width="1390" height="270" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="1870" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="FReDGIjetmC7sDtpQ-uE-8">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-106" target="FReDGIjetmC7sDtpQ-uE-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-106" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;نقش&lt;br&gt;فیلم&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="750" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-109" value="&lt;span dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;دکوفویل&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="750" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-114" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="320" y="40" />
+              <mxPoint x="810" y="180" />
+              <mxPoint x="340" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="FReDGIjetmC7sDtpQ-uE-68">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-114" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;نیمه&lt;br&gt;ساخته&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="280" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-117" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="870" y="45" />
+              <mxPoint x="810" y="180" />
+              <mxPoint x="470" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="نقش فیلم" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="430" y="30" width="180" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.363;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-51">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-117" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;آشپزخانه&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="410" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-119" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="614" y="150" />
+              <mxPoint x="810" y="180" />
+              <mxPoint x="600" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-36">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-121" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="550" y="150" />
+              <mxPoint x="660" y="180" />
+              <mxPoint x="300" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-44">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-121" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;سایر&lt;br&gt;موجودی ها&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="670" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-123" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="490" y="150" />
+              <mxPoint x="660" y="180" />
+              <mxPoint x="300" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-43">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-123" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;مواد&lt;br&gt;اولیه نامنطبق&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="800" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-125" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="440" y="150" />
+              <mxPoint x="660" y="180" />
+              <mxPoint x="300" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-42">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-125" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;سیلندرها&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="930" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-127" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="390" y="150" />
+              <mxPoint x="660" y="180" />
+              <mxPoint x="300" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-40">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-127" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;دپو&lt;br&gt;رنگ&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1060" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-133" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="140" />
-              <mxPoint x="340" y="140" />
+              <mxPoint x="660" y="180" />
+              <mxPoint x="300" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-39">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-133" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;محصول نامنطبق&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1190" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-136" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="290" y="150" />
+              <mxPoint x="660" y="180" />
+              <mxPoint x="300" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-38">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-136" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;بسته&lt;br&gt;بندی&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1320" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FReDGIjetmC7sDtpQ-uE-109" target="FReDGIjetmC7sDtpQ-uE-140" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="240" y="150" />
+              <mxPoint x="810" y="180" />
+              <mxPoint x="1510" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-37">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-140" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;مواد&lt;br&gt;اولیه&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1450" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FReDGIjetmC7sDtpQ-uE-109" target="FReDGIjetmC7sDtpQ-uE-142" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="190" y="150" />
+              <mxPoint x="810" y="180" />
+              <mxPoint x="1640" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-35">
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-142" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;محصول&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1580" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" target="FReDGIjetmC7sDtpQ-uE-147" source="FReDGIjetmC7sDtpQ-uE-109" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="140" y="150" />
+              <mxPoint x="810" y="180" />
+              <mxPoint x="1770" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="90" y="150" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-147" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;B Nazanin&amp;quot;;&quot; dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ضایعات&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1710" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-8" target="FReDGIjetmC7sDtpQ-uE-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="340" y="150" />
-              <mxPoint x="40" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="رز قیلم" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-8">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="260" y="100" width="140" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="370" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="270" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-17">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="220" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="170" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-19">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="120" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-20">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="70" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-21">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="420" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-22">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="470" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-24">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="520" y="180" width="60" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-30">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="320" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-31">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="20" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;محصول&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="15" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-34" value="مواد اولیه" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="65" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-35" value="بسته بندی" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="115" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-36" value="محصول نامنطبق" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="510" y="180" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-37" value="ضایعات" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="165" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-38" value="نیمه ساخته" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="210" y="180" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-39" value="آشپزخانه" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="265" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-40" value="اموال" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="320" y="180" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-42" value="سیلندر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="370" y="180" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-43" value="دپو رنگ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="415" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-44" value="سایر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="470" y="180" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="590" y="180" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-51" value="مواد اولیه نامنطبق" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="585" y="180" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-80">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="715" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.323;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-81">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="756" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-82">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="815" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-84">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="865" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="915" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-86">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="965" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="1015" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="1065" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="1115" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-90">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="1165" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-83">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="1225" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="FReDGIjetmC7sDtpQ-uE-68" target="FReDGIjetmC7sDtpQ-uE-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="140" />
-              <mxPoint x="1300" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="دکوفویل" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-68">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="805" y="90" width="140" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-69">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1045" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-70">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="945" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-71">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="895" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-72">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="845" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-73">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="795" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-74">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="745" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-75">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1095" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-76">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1145" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-77">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1195" y="180" width="60" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-78">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="995" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FReDGIjetmC7sDtpQ-uE-79">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="695" y="180" width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-80" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;محصول&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="690" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-81" value="مواد اولیه" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="740" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-82" value="بسته بندی" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="790" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-83" value="محصول نامنطبق" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1185" y="180" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-84" value="ضایعات" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="840" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-85" value="نیمه ساخته" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="885" y="180" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-86" value="آشپزخانه" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="940" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-87" value="اموال" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="995" y="180" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-88" value="سیلندر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1045" y="180" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-89" value="دپو رنگ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1090" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-90" value="سایر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1145" y="180" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1265" y="180" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FReDGIjetmC7sDtpQ-uE-92" value="مواد اولیه نامنطبق" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1260" y="180" width="80" height="30" as="geometry" />
+        <mxCell id="FReDGIjetmC7sDtpQ-uE-119" value="&lt;span dir=&quot;RTL&quot; lang=&quot;FA&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;اموال&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="540" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
